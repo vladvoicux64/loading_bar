@@ -6,11 +6,17 @@
 
 #IncludeRegexTransform: 
 
-D:/programare/C ++/Proiecte/loading-bar/main.cpp
-iostream
--
+D:/programare/C ++/Proiecte/loading-bar/loading-bar.h
 Windows.h
 -
 stdio.h
 -
+string
+-
+iostream
+-
+
+D:/programare/C ++/Proiecte/loading-bar/main.cpp
+loading-bar.h
+D:/programare/C ++/Proiecte/loading-bar/loading-bar.h
 

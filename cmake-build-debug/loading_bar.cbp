@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="D:/programare/C ++/Proiecte/loading-bar/loading-bar.h">
+			<Option target="loading_bar"/>
+		</Unit>
 		<Unit filename="D:/programare/C ++/Proiecte/loading-bar/main.cpp">
 			<Option target="loading_bar"/>
 		</Unit>
