@@ -11,7 +11,6 @@ using namespace std;
 
 void loading_bar(unsigned lenght, unsigned speed) { //lenght in characters, speed in ms/step, colour in ANSI format
     char uldd=177, ldd=219;
-    system( "COLOR 09");
     system("cls");
     printf("\e[?25l");
     cout<<"\n\n\n\n\t\tLoading...";
