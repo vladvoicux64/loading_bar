@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/loading_bar.dir/main.cpp.obj"
+  "CMakeFiles/loading_bar.dir/main.cpp.obj.d"
   "libloading_bar.dll.a"
   "loading_bar.exe"
   "loading_bar.exe.manifest"
